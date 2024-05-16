@@ -1,0 +1,1 @@
+Log Parsing is the task of transforming unstructured log data into a structured format that can be used to train machine learning algorithms. The structured log data is then used to identify patterns, trends, and anomalies, which can support decision-making and improve system performance, security, and reliability.
